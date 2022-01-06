@@ -25,19 +25,12 @@
             </g>
           <text id="LA_RONDE_DU" data-name="LA RONDE DU" transform="translate(532 49.5)" fill="#fefefe" font-size="70" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan x="0" y="61">LA RONDE DU</tspan></text>
               <text id="BOSMONT" transform="translate(532 49.5)" fill="#C1E120" font-size="125" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan  x="0" y="220">BOSMONT</tspan></text>
-
-          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="468.014" height="303.711" viewBox="0 0 468.014 303.711">
-            <defs>
-              <clipPath id="clip-path">
-                <rect id="Rectangle_107" data-name="Rectangle 107" width="468.014" height="303.711" fill="none"/>
-              </clipPath>
-            </defs>
             <g id="Groupe_10" data-name="Groupe 10" clip-path="url(#clip-path)">
               <ellipse id="Ellipse_47" data-name="Ellipse 47" cx="146.24" cy="146.309" rx="146.24" ry="146.309" transform="translate(169.336 3.206)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
               <path id="Tracé_116" data-name="Tracé 116" d="M128.632,86.616S96.521,214.886,236.312,232.763L325.35,240.1c-7.209-1.587-219.907-27-188.535-184.221Z" transform="translate(172.664 63.607)" fill="#bec719"/>
               <path id="Tracé_117" data-name="Tracé 117" d="M300.121,148.636s49.2-16.379,40.966-57.869-56.822-46.045-79.806-28.661c-45.837,34.667-7,130.853-67.021,145.049s-151.7-91.274-151.7-91.274L0,62.38S163.157,195.951,183.893,180.665s5.542-117.194,67.021-148.857C309.655,1.552,368.05,32.9,367.783,84.462c-.336,64.406-67.662,64.175-67.662,64.175" transform="translate(30 22.717)" fill="#bec719"/>
             </g>
-          </svg>
+
 
         </svg>
 

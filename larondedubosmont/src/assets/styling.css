@@ -54,14 +54,9 @@ abbr, #BOSMONT {
   text-shadow: 0.1vw 0.3vw 0.1vw #000000;
 }
 
-
-
-
-
-
 #banderole-accueil {
   top: 20vw;
-  left: -3vw;
+  left: -6vw;
   animation-delay: 3s;
   animation: 3s  slidein;
 }
@@ -71,9 +66,8 @@ abbr, #BOSMONT {
     left: -200vw;
     opacity: 0;
   }
-
   to {
-    left: -7vw;
+    left: -6vw;
     opacity: 100%;
   }
 }

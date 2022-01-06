@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@1,900&family=Roboto:wght@300&display=swap');
+
+body {
+  overflow-x: hidden;
+  background-color: #EEEEEE!important;
+}
+.bg-success {
+  background-color: #297319!important;
+}
+.text-success, .btn-success {
+  color: #297319!important;
+}
+#success {
+  color: #297319!important;
+}
+#warning {
+  color: #C1E120!important;
+}
+.bg-warning {
+  background-color: #C1E120!important;
+}
+.btn-warning, .text-warning {
+  color: #C1E120!important;
+}
+
+.bg-white {
+  background-color: #EEEEEE!important;
+}
+.text-white, .btn-white {
+  color: #EEEEEE!important;
+}
+
+.bg-dark, .bg-black {
+  background-color: #2E2828!important;
+}
+.text-black, .text-dark, .btn-dark, .btn-black {
+  color: #2E2828!important;
+}
+
+.container-fluid {
+  padding: 0;
+}
+.display-3, .display-4, .display-5, .display-6 {
+  font-family: 'Archivo', sans-serif;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+}
+.lead {
+  font-family: 'Roboto', sans-serif;
+}
+abbr, #BOSMONT {
+  text-shadow: 0.1vw 0.3vw 0.1vw #000000;
+}
+
+
+
+
+
+
+#banderole-accueil {
+  top: 20vw;
+  left: -3vw;
+  animation-delay: 3s;
+  animation: 3s  slidein;
+}
+
+@keyframes slidein {
+  from {
+    left: -200vw;
+    opacity: 0;
+  }
+
+  to {
+    left: -7vw;
+    opacity: 100%;
+  }
+}

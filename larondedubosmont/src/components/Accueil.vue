@@ -333,7 +333,7 @@ export default {
   name: 'Accueil',
   data () {
     return {
-      Course:[],
+
     }
   },
   created(){

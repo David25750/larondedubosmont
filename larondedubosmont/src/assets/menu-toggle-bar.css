@@ -1,12 +1,12 @@
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 902px) {
   .nav-toggle {
     background-color: transparent;
     width: 5vw;
     height: 5vw;
     position: fixed;
     top: 3vh;
-    left: 1vw;
+    right: 1vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -36,49 +36,51 @@
   }
 
   #navigation {
-    background-color: #C21404;
-    opacity: 80%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    display: flex;
+    background-color: #2E2828!important;
+    opacity: 100%!important;
+    position: fixed!important;
+    top: 0!important;
+    left: 0!important;
+    bottom: 0!important;
+    right: 0!important;
+    display: flex!important;
     align-items: center;
-    justify-content: center;
-    transform: translateY(-450rem);
-    transition: all .4s;
-    z-index: 1;
+    transform: translateY(-450rem)!important;
+    transition: all .4s!important;
+    z-index: 1!important;
+  }
+  #navigation> ul {
+    justify-content: center!important;
+    justify-items: center!important;
   }
 
-  .menu-open .menu {
-    transform: translateY(0);
+  .menu-open #navigation {
+    transform: translateY(0)!important;
   }
 
   .menu-open,
   .menu-open body {
-    overflow: hidden;
+    overflow: hidden!important;
   }
 
   .menu-open .nav-toggle-bar {
-    transform: rotate(135deg);
-    background-color: #2E2828;
+    transform: rotate(135deg)!important;
+    background-color: #EEEEEE!important;
   }
   .menu-open .nav-toggle-bar::after,
   .menu-open .nav-toggle-bar::before {
-    transform: rotate(90deg);
-    background-color: #2E2828;
-    top: 0;
+    transform: rotate(90deg)!important;
+    background-color: #EEEEEE!important;
+    top: 0!important;
   }
 
   .menu-open .menu li {
-    transform: translateY(0);
-    opacity: 1;
-    text-align: center;
-    margin-top: 0;
-    padding-top: 0;
-    padding-bottom: 40px;
-    border-bottom: 3px solid #2E2828;
+    transform: translateY(0)!important;
+    opacity: 1!important;
+    margin-top: 0!important;
+    padding-top: 0!important;
+    padding-bottom: 40px!important;
+    border-bottom: 3px solid #2E2828!important;
 
   }
   .menu-open .menu li:last-child {

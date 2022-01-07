@@ -12,7 +12,7 @@
           </svg>
 
         </a>
-        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <nav class="navbar-expand-sm navbar-light bg-white">
           <div class="container-fluid">
             <div class="nav-toggle" onclick="document.documentElement.classList.toggle('menu-open')">
               <div class="nav-toggle-bar"></div>
@@ -25,7 +25,7 @@
                 <li class="nav-item"><router-link to="Resultats" class="nav-link bg-white text-black-50 px-3 py-4">Resultats</router-link></li>
                 <li class="nav-item"><router-link to="Contact" class="nav-link bg-white text-black-50 px-3 py-4">Contact</router-link></li>
                 <li id="lien-inscription" class="nav-item"><a href="https://www.le-sportif.com/CalendarDetail/CalendarDetail.aspx?EventID=181414"
-                                                              class="nav-link active bg-success text-white  border border-3 border-white p-4">Inscription</a></li>
+                                                              class="nav-link active bg-success text-white  border border-3 border-0 p-4">Inscription</a></li>
               </ul>
             </div>
           </div>

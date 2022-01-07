@@ -6,7 +6,7 @@ import Contact from "../components/Contact.vue"
 import Photos from "../components/Photos.vue"
 import Information from "../components/Information.vue"
 import Mentions from "../components/Mentions.vue"
-import PhotosClic from "../components/PhotosClic.vue";
+
 
 Vue.use(Router)
 
@@ -20,11 +20,6 @@ export default new Router({
       path: '/',
       name: 'Accueil',
       component: Accueil
-    },
-    {
-      path: '/photosclic',
-      name: 'PhotosClic',
-      component: PhotosClic
     },
     {
       path: '/mentions',

@@ -9,7 +9,7 @@ import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import './assets/styling.css'
-import './assets/responsive.css'
+import './assets/menu-toggle-bar.css'
 
 Vue.config.productionTip = false
 

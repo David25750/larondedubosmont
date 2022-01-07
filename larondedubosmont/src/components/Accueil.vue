@@ -69,6 +69,12 @@
           La course est un excellent tremplin pour les coureurs de running et pour ceux qui pratiquent le footing régulièrement. Elle permet de participer au challenge départemental des courses hors stade.
         </p>
       </div>
+      <div class="row row-cols-3 ">
+        <p class="col display-6 text-center">10km</p>
+        <p class="col display-6 text-center">500 dénivelés +</p>
+        <p class="col display-6 text-center">300 alt max</p>
+
+      </div>
     </div>
 
 
@@ -77,18 +83,12 @@
         <h1 class="text-center text-white display-5 text-uppercase">Pour nous retrouvez</h1>
       </div>
       <div class="row">
-        <p class="text-center text-white">Maison pour Tous, Place de l'Europe, 90400 Danjoutin</p>
+        <p class="text-center display-6 text-warning">Maison pour Tous, Place de l'Europe, 90400 Danjoutin</p>
       </div>
       <div class="row">
-        <p class="text-center text-white">N'hésitez pas à consulter les informations de la course avant de vous inscrire</p>
-      </div>
-      <div class="row text-center">
-        <router-link class="nav-item text-decoration-none text-white" to="Information" >C'est juste ici</router-link>
-      </div>
-      <div class="d-grid gap-2 d-sm-flex justify-content-sm-center p-5">
-        <b-button href="https://www.le-sportif.com/CalendarDetail/CalendarDetail.aspx?EventID=174735&SHAD="
-                  type="submit" variant="warning" class="btn text-black px-4 gap-3">Je m'inscris</b-button>
-
+        <a class="text-decoration-none" href="https://www.google.fr/maps/place/Bosmont/@47.6205826,6.8640323,17z/data=!3m1!4b1!4m5!3m4!1s0x47923cb9b63b79db:0x10b28d613d45333f!8m2!3d47.620579!4d6.866221">
+          <p class="lead text-white text-center">Lien vers google maps</p>
+        </a>
       </div>
     </div>
 

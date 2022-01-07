@@ -3,15 +3,14 @@
     <div class="container-fluid position-absolute">
       <header class="d-flex flex-wrap justify-content-center align-content-center bg-white">
         <a href="https://rondedubosmont.davidphilippe.fr/#/" class="d-flex me-md-auto text-decoration-none">
-          <svg  xmlns="http://www.w3.org/2000/svg" width="302" height="76.372" viewBox="0 0 302 76.372">
-            <g id="Logo_icone" data-name="Logo icone" transform="translate(-111.961 -77.128)" style="mix-blend-mode: darken;isolation: isolate">
-              <text id="LA_RONDE_DU" data-name="LA RONDE DU" transform="translate(225.961 89.314)" fill="#2e2828" font-size="16" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan x="0" y="14">LA RONDE DU</tspan></text>
-              <text id="BOSMONT" transform="translate(225.961 111.314)" fill="#297319" font-size="30" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan x="0" y="26">BOSMONT</tspan></text>
-              <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="32.854" cy="33.432" rx="32.854" ry="33.432" transform="translate(142.117 78.128)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="2"/>
-              <path id="Tracé_1" data-name="Tracé 1" d="M170.36,118.082s-2.5,30.558,28.9,34.643l12.014.749c-1.746.461-37.582-4.962-35.223-39.149Z" fill="#2d6223"/>
-              <path id="Tracé_2" data-name="Tracé 2" d="M179.384,120.541s11.052-3.742,9.2-13.223-13.617-11.975-19.5-9.231,0,32.582-13.485,35.826-34.079-20.857-34.079-20.857l-9.562-12.225s35.214,27.943,39.873,24.45S151.47,99.5,166.145,90.6c12.749-7.734,29.666.611,28.44,15.275S179.384,120.541,179.384,120.541Z" fill="#2d6223"/>
-            </g>
+          <svg class="w-75 mx-2" xmlns="http://www.w3.org/2000/svg" width="281.357" height="90.754" viewBox="0 0 281.357 90.754">
+            <ellipse id="Ellipse_48" data-name="Ellipse 48" cx="42.9" cy="43.699" rx="42.9" ry="43.699" transform="translate(40.874 1)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="2"/>
+            <path id="Tracé_118" data-name="Tracé 118" d="M126.384,65.062s-9.42,38.311,31.588,43.651l26.119,2.192c-2.115-.474-64.509-8.063-55.306-55.023Z" transform="translate(-46.799 -20.152)" fill="#2d6223"/>
+            <path id="Tracé_119" data-name="Tracé 119" d="M88.04,58.391s14.432-4.892,12.017-17.284-16.669-13.752-23.411-8.56C63.2,42.9,74.594,71.63,56.986,75.87s-44.5-27.262-44.5-27.262L0,32.629S47.862,72.523,53.945,67.958s1.626-35,19.661-44.46c17.232-9.037,34.362.326,34.284,15.726C107.79,58.46,88.04,58.391,88.04,58.391" transform="translate(0 -7.17)" fill="#2d6223"/>
+            <text id="LA_RONDE_DU_" data-name="LA RONDE DU " transform="translate(140.678 28.657)" fill="#161615" font-size="14" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan x="0" y="0">LA RONDE DU </tspan></text>
+            <text id="BOSMONT" transform="translate(137.357 57.639)" fill="#2d6223" font-size="25" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan x="0" y="0">BOSMONT</tspan></text>
           </svg>
+
         </a>
         <nav class="navbar navbar-expand-lg navbar-light bg-white">
           <div class="container-fluid">
@@ -38,16 +37,14 @@
       <footer class="border-top">
         <div class="row py-5 my-5 justify-content-center">
           <div class="col text-center">
-            <svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 302 76.372">
-              <g id="Logo_icone" data-name="Logo icone" transform="translate(-111.961 -77.128)" style="mix-blend-mode: darken;isolation: isolate">
-                <text id="LA_RONDE_DU" data-name="LA RONDE DU" transform="translate(225.961 89.314)" fill="#2e2828" font-size="16" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan x="0" y="14">LA RONDE DU</tspan></text>
-                <text id="BOSMONT" transform="translate(225.961 111.314)" fill="#297319" font-size="30" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan x="0" y="26">BOSMONT</tspan></text>
-                <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="32.854" cy="33.432" rx="32.854" ry="33.432" transform="translate(142.117 78.128)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="2"/>
-                <path id="Tracé_1" data-name="Tracé 1" d="M170.36,118.082s-2.5,30.558,28.9,34.643l12.014.749c-1.746.461-37.582-4.962-35.223-39.149Z" fill="#2d6223"/>
-                <path id="Tracé_2" data-name="Tracé 2" d="M179.384,120.541s11.052-3.742,9.2-13.223-13.617-11.975-19.5-9.231,0,32.582-13.485,35.826-34.079-20.857-34.079-20.857l-9.562-12.225s35.214,27.943,39.873,24.45S151.47,99.5,166.145,90.6c12.749-7.734,29.666.611,28.44,15.275S179.384,120.541,179.384,120.541Z" fill="#2d6223"/>
-              </g>
+            <svg class="w-75 mx-2" xmlns="http://www.w3.org/2000/svg" width="281.357" height="90.754" viewBox="0 0 281.357 90.754">
+              <ellipse id="Ellipse_48" data-name="Ellipse 48" cx="42.9" cy="43.699" rx="42.9" ry="43.699" transform="translate(40.874 1)" fill="none" stroke="#161615" stroke-miterlimit="10" stroke-width="2"/>
+              <path id="Tracé_118" data-name="Tracé 118" d="M126.384,65.062s-9.42,38.311,31.588,43.651l26.119,2.192c-2.115-.474-64.509-8.063-55.306-55.023Z" transform="translate(-46.799 -20.152)" fill="#2d6223"/>
+              <path id="Tracé_119" data-name="Tracé 119" d="M88.04,58.391s14.432-4.892,12.017-17.284-16.669-13.752-23.411-8.56C63.2,42.9,74.594,71.63,56.986,75.87s-44.5-27.262-44.5-27.262L0,32.629S47.862,72.523,53.945,67.958s1.626-35,19.661-44.46c17.232-9.037,34.362.326,34.284,15.726C107.79,58.46,88.04,58.391,88.04,58.391" transform="translate(0 -7.17)" fill="#2d6223"/>
+              <text id="LA_RONDE_DU_" data-name="LA RONDE DU " transform="translate(140.678 28.657)" fill="#161615" font-size="14" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan x="0" y="0">LA RONDE DU </tspan></text>
+              <text id="BOSMONT" transform="translate(137.357 57.639)" fill="#2d6223" font-size="25" font-family="Archivo-BlackItalic, Archivo" font-weight="800" font-style="italic"><tspan x="0" y="0">BOSMONT</tspan></text>
             </svg>
-            <a href="https://parametre.davidphilippe.fr/wp-admin" class="text-success text-decoration-none">connexion</a>
+            <a href="https://parametre.davidphilippe.fr/wp-admin" class="text-success text-decoration-none mt-2">connexion</a>
           </div>
           <div class="col">
             <h5 class="mb-5">Réseaux sociaux</h5>
